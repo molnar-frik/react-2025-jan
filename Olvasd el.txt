@@ -1,0 +1,5 @@
+Tic-tac-toe-orai: leasson-03
+Investment-calculator-orai: lesson-04-kezdes másolata
+Time-challange-orai: lesson-04-2 másolata
+Project-management-orai: lesson-05-02
+Elegant-context-shop: lesson-06
