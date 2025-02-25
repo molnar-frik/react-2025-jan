@@ -3,5 +3,8 @@ Investment-calculator-orai: lesson-04-kezdes másolata
 Time-challange-orai: lesson-04-2 másolata
 Project-management-orai: lesson-05-02
 Elegant-context-shop: lesson-06: createContext, context reducer és context provider használata a projekten belül
-Kepeslap-geolokacio-orai: lesson-07
+Kepeslap-geolokacio-orai: lesson-07 useEffect (geolokáció lekérdezése) és local storage
+
+
+
 
